@@ -1,0 +1,26 @@
+[{"id": 1,"nom":"Dupon","prenom":"Jean",
+    "email": "jean.dupont@example.com",
+    "adresse": {
+      "rue": "route de Calais",
+      "codepostal": "62280",
+      "ville": "St Martin Boulogne"
+    }
+  },
+  {
+    "id": 2,
+    "nom": "Durand",
+    "prenom": "Paul",
+    "email": "paul.durand@example.com",
+    "adresse": {
+      "rue": "rue de Paris",
+      "codepostal": "62100",
+      "ville": "Calais"
+    }
+  },
+  {
+    "id": 3,
+    "nom": "Martin",
+    "prenom": "Jacques",
+    "email": "jacques.martin@example.com"
+  }
+]
